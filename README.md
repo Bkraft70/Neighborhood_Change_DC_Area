@@ -1,4 +1,4 @@
-# Neighborhood_Change_DC_and_Montgomery_County
+# Neighborhood_Change_DC_Area
 Neighborhood change in the Washington DC Metropolitan Region  
 
 Neighborhood change in the Washington DC Area with a focus on Montgomery County 
