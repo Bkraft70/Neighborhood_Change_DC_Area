@@ -3,6 +3,8 @@
 # install tidyverse and tidycensus if not already installed
 # install.packages("tidyverse")
 # install.packages("tidycensus")
+# to use tidycensus, you must first obtain a Census API key. See https://walker-data.com/tidycensus/articles/basic-usage.html
+# census_api_key("YOUR API KEY GOES HERE")
 
 # install "tmap" and "sf" packages if not already installed - for creating shapefile later in the script
 # install.packages("sf")
