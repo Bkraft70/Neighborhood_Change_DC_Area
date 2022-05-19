@@ -1,7 +1,6 @@
 # Neighborhood_Change_DC_Area
-Neighborhood change in the Washington DC Metropolitan Region  
+Neighborhood change in the Washington DC Metropolitan Region with a focus on Montgomery County
 
-Neighborhood change in the Washington DC Area with a focus on Montgomery County 
 
 This project is based on the methodology from American Neighborhood Change in the 21st Century: Gentrification and Decline (https://law.umn.edu/institute-metropolitan-opportunity/gentrification) created by the University of Minnesota Institute on Metropolitan Opportunity. 
 
